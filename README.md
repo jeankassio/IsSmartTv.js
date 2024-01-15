@@ -6,7 +6,7 @@ IsSmartTV.js is a lightweight JavaScript plugin crafted to detect SmartTVs based
 Include the IsSmartTV.js script directly in your HTML page:
 
 ```html
-<script src="path/to/IsSmartTV.min.js"></script>
+<script src="path/to/IsSmartTv.min.js"></script>
 ```
 
 ## How to Use:
