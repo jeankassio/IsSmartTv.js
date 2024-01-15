@@ -1,3 +1,17 @@
+/*!
+ * IsSmartTv.js v0.9.1
+ * by Jean Kássio
+ *
+ * More info:
+ * https://github.com/jeankassio
+ *
+ * Copyright Jean Kássio
+ * Released under the MIT license
+ * https://github.com/jeankassio/IsSmartTv.js/blob/main/LICENSE
+ *
+ * @preserve
+ */
+
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD
